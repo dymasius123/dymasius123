@@ -2,7 +2,7 @@ Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Dymasius)](https://git.io/typing-svg)
 
-- 🌱 I’m currently a student at hacktiv8
+🌱 I’m currently learning at hacktiv8
 
 Languages, Frameworks, Tools
 <p float="left">
